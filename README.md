@@ -9,4 +9,9 @@ This calculator looks like the image shown: It has the following functionalities
 - The AC button resets and clears the data.
 - The _=_ button gives the result of the operation.
 
-  ![alt text](Calc.png)
+Things it cannot support:
+
+- [x] Cannot show Error messages
+- [x] Allows other mathematical operators beside without replacing the previous operator.
+
+![Calculator](Code/Calc.png)
