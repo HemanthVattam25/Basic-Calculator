@@ -12,7 +12,7 @@ function mouseEnter() {
 
 function keyFunction() {
   let targetNumber = event.target.innerText;
-  if (targetNumber == "C") {
+  if (targetNumber == "AC") {
     bag = "";
     document.querySelector("#display").innerText = bag;
   } else if (targetNumber == "=") {
