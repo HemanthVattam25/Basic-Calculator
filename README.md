@@ -11,7 +11,7 @@ This calculator looks like the image shown: It has the following functionalities
 
 Things it cannot support:
 
-- [] Cannot show Error messages
-- [] Allows other mathematical operators beside without replacing the previous operator.
+- [ ] Cannot show Error messages
+- [ ] Allows other mathematical operators beside without replacing the previous operator.
 
 ![Calculator](Code/Calc.png)
